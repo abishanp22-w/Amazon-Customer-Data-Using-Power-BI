@@ -1,0 +1,201 @@
+Customer_ID,Customer_Name,Age,Gender,City,Product_Category,Product_Name,Order_ID,Order_Date,Delivery_Date,Payment_Method,Order_Amount,Discount,Final_Amount,Rating,Return_Status,Delivery_Status,Warehouse_Location,Seller_ID,Prime_Member
+CUST1000,Customer_0,37,Male,Delhi,Electronics,Product_0,ORD5000,06-12-2024,27-04-2024,UPI,23343.59,13.54,32397.22,3,Returned,Shipped,South Hub,SEL200,Yes
+CUST1001,Customer_1,48,Female,Hyderabad,Clothing,Product_1,ORD5001,19-05-2024,19-04-2024,UPI,40843.33,8.52,21471.22,1,Returned,Cancelled,South Hub,SEL201,Yes
+CUST1002,Customer_2,44,Female,Hyderabad,Sports,Product_2,ORD5002,11-03-2024,27-11-2024,Net Banking,20689.26,20.48,14159.86,1,Not Returned,Shipped,South Hub,SEL202,Yes
+CUST1003,Customer_3,58,Female,Mumbai,Sports,Product_3,ORD5003,08-12-2024,07-11-2024,Net Banking,30220.27,23.14,14004.16,3,Not Returned,Out for Delivery,South Hub,SEL203,No
+CUST1004,Customer_4,30,Male,Mumbai,Clothing,Product_4,ORD5004,13-03-2024,14-01-2024,Credit Card,19862.73,11.52,34276.39,2,Not Returned,Delivered,West Hub,SEL204,Yes
+CUST1005,Customer_5,57,Male,Delhi,Beauty,Product_5,ORD5005,10-10-2024,22-01-2024,Credit Card,23402.34,28.47,37871.91,1,Not Returned,Shipped,North Hub,SEL205,Yes
+CUST1006,Customer_6,41,Female,Delhi,Electronics,Product_6,ORD5006,25-04-2024,19-08-2024,Net Banking,23961.23,27.63,39697.81,1,Not Returned,Shipped,East Hub,SEL206,No
+CUST1007,Customer_7,31,Male,Hyderabad,Home,Product_7,ORD5007,12-03-2024,01-10-2024,Debit Card,37521.56,8.23,358.51,4,Returned,Delivered,South Hub,SEL207,No
+CUST1008,Customer_8,25,Female,Delhi,Sports,Product_8,ORD5008,08-06-2024,15-08-2024,UPI,36021.06,18.89,13254.97,1,Returned,Cancelled,West Hub,SEL208,Yes
+CUST1009,Customer_9,47,Female,Chennai,Home,Product_9,ORD5009,23-05-2024,21-05-2024,Debit Card,23072.75,16.64,46768.99,3,Returned,Delivered,East Hub,SEL209,Yes
+CUST1010,Customer_10,42,Male,Hyderabad,Clothing,Product_10,ORD5010,22-11-2024,17-05-2024,Net Banking,9579.28,17.8,29095.97,3,Returned,Cancelled,East Hub,SEL210,No
+CUST1011,Customer_11,49,Male,Bangalore,Clothing,Product_11,ORD5011,29-03-2024,10-02-2024,Credit Card,32575.57,16.11,5230.66,2,Returned,Shipped,West Hub,SEL211,No
+CUST1012,Customer_12,28,Female,Chennai,Beauty,Product_12,ORD5012,06-04-2024,03-03-2024,Credit Card,19182.12,24.03,25009.65,1,Returned,Delivered,North Hub,SEL212,Yes
+CUST1013,Customer_13,32,Female,Bangalore,Electronics,Product_13,ORD5013,24-02-2024,04-03-2024,Net Banking,9216.92,3.78,30592.38,2,Not Returned,Out for Delivery,South Hub,SEL213,No
+CUST1014,Customer_14,23,Female,Hyderabad,Electronics,Product_14,ORD5014,16-05-2024,20-01-2024,Cash on Delivery,47231.77,5,30780.11,2,Not Returned,Shipped,West Hub,SEL214,Yes
+CUST1015,Customer_15,24,Male,Bangalore,Home,Product_15,ORD5015,19-05-2024,03-12-2024,Cash on Delivery,27399.86,11.79,49732.44,4,Not Returned,Cancelled,East Hub,SEL215,Yes
+CUST1016,Customer_16,22,Male,Chennai,Sports,Product_16,ORD5016,16-02-2024,25-02-2024,Debit Card,27465.04,28.86,19533.84,3,Returned,Out for Delivery,North Hub,SEL216,No
+CUST1017,Customer_17,48,Male,Delhi,Sports,Product_17,ORD5017,17-04-2024,02-06-2024,Credit Card,19768.99,17.01,26791.6,4,Not Returned,Shipped,West Hub,SEL217,Yes
+CUST1018,Customer_18,22,Male,Bangalore,Clothing,Product_18,ORD5018,18-09-2024,02-12-2024,Debit Card,2888.83,26.93,3013.14,5,Returned,Delivered,East Hub,SEL218,Yes
+CUST1019,Customer_19,42,Male,Delhi,Clothing,Product_19,ORD5019,14-01-2024,17-05-2024,Cash on Delivery,32496.67,25,6548.83,5,Returned,Out for Delivery,South Hub,SEL219,Yes
+CUST1020,Customer_20,46,Female,Hyderabad,Clothing,Product_20,ORD5020,05-06-2024,23-10-2024,UPI,49649.94,6.51,9420.81,2,Returned,Cancelled,West Hub,SEL220,No
+CUST1021,Customer_21,33,Male,Delhi,Home,Product_21,ORD5021,06-07-2024,17-08-2024,Credit Card,37519.93,8.1,23176.58,4,Not Returned,Out for Delivery,South Hub,SEL221,Yes
+CUST1022,Customer_22,22,Male,Hyderabad,Beauty,Product_22,ORD5022,19-07-2024,08-01-2024,UPI,10950.78,8.51,33559.73,1,Not Returned,Cancelled,East Hub,SEL222,Yes
+CUST1023,Customer_23,31,Female,Hyderabad,Clothing,Product_23,ORD5023,08-02-2024,27-09-2024,Net Banking,37048.8,29.92,21054.56,4,Not Returned,Out for Delivery,South Hub,SEL223,No
+CUST1024,Customer_24,47,Male,Chennai,Sports,Product_24,ORD5024,11-07-2024,28-05-2024,Net Banking,34235.26,22.15,44116.67,1,Returned,Out for Delivery,North Hub,SEL224,No
+CUST1025,Customer_25,47,Male,Delhi,Home,Product_25,ORD5025,16-10-2024,29-09-2024,Cash on Delivery,24933.38,14.51,8863.67,4,Not Returned,Cancelled,South Hub,SEL225,Yes
+CUST1026,Customer_26,36,Male,Bangalore,Sports,Product_26,ORD5026,24-01-2024,03-09-2024,Credit Card,15335.02,5.16,48259.54,2,Not Returned,Out for Delivery,West Hub,SEL226,Yes
+CUST1027,Customer_27,29,Male,Mumbai,Home,Product_27,ORD5027,29-07-2024,12-10-2024,Net Banking,30661.16,25.27,31140.07,5,Not Returned,Delivered,South Hub,SEL227,Yes
+CUST1028,Customer_28,46,Female,Hyderabad,Home,Product_28,ORD5028,06-11-2024,30-08-2024,Net Banking,49537.6,17.51,49355.7,1,Returned,Delivered,East Hub,SEL228,No
+CUST1029,Customer_29,47,Female,Hyderabad,Home,Product_29,ORD5029,21-04-2024,30-03-2024,Net Banking,39356.64,18.86,23774.24,2,Returned,Shipped,East Hub,SEL229,No
+CUST1030,Customer_30,53,Female,Hyderabad,Electronics,Product_30,ORD5030,10-05-2024,21-01-2024,UPI,45571.46,18.47,42220.57,1,Returned,Shipped,West Hub,SEL230,No
+CUST1031,Customer_31,25,Male,Delhi,Beauty,Product_31,ORD5031,27-09-2024,07-02-2024,Cash on Delivery,9393.08,4.66,47902.97,3,Returned,Out for Delivery,North Hub,SEL231,Yes
+CUST1032,Customer_32,20,Female,Bangalore,Home,Product_32,ORD5032,29-05-2024,31-08-2024,Net Banking,39679.41,21.14,37445.17,2,Returned,Out for Delivery,West Hub,SEL232,No
+CUST1033,Customer_33,27,Female,Delhi,Electronics,Product_33,ORD5033,28-09-2024,25-12-2024,Cash on Delivery,6657.31,0.85,19942.41,2,Returned,Shipped,West Hub,SEL233,Yes
+CUST1034,Customer_34,55,Male,Chennai,Sports,Product_34,ORD5034,07-01-2024,05-02-2024,Net Banking,49896.67,0.25,41885.17,5,Returned,Out for Delivery,East Hub,SEL234,Yes
+CUST1035,Customer_35,23,Female,Delhi,Beauty,Product_35,ORD5035,17-02-2024,12-05-2024,Debit Card,40526.11,23.45,11290.51,3,Not Returned,Delivered,East Hub,SEL235,No
+CUST1036,Customer_36,36,Male,Bangalore,Sports,Product_36,ORD5036,17-11-2024,21-05-2024,Credit Card,29918.5,0.44,8999.82,2,Returned,Shipped,South Hub,SEL236,Yes
+CUST1037,Customer_37,48,Male,Chennai,Sports,Product_37,ORD5037,02-09-2024,03-06-2024,UPI,22848.31,25.81,3977.29,4,Returned,Shipped,East Hub,SEL237,No
+CUST1038,Customer_38,43,Male,Delhi,Clothing,Product_38,ORD5038,02-08-2024,06-08-2024,Cash on Delivery,15827.32,21.65,21828.23,3,Returned,Shipped,South Hub,SEL238,Yes
+CUST1039,Customer_39,45,Female,Mumbai,Clothing,Product_39,ORD5039,21-05-2024,06-09-2024,Debit Card,2628.81,24.38,19151.19,3,Not Returned,Shipped,North Hub,SEL239,No
+CUST1040,Customer_40,30,Male,Delhi,Sports,Product_40,ORD5040,17-05-2024,11-06-2024,Credit Card,20915.11,2.51,11479.87,5,Returned,Out for Delivery,West Hub,SEL240,No
+CUST1041,Customer_41,25,Female,Hyderabad,Home,Product_41,ORD5041,05-12-2024,23-06-2024,Credit Card,14840.5,27.17,14008.02,5,Not Returned,Out for Delivery,South Hub,SEL241,No
+CUST1042,Customer_42,37,Male,Bangalore,Electronics,Product_42,ORD5042,15-03-2024,27-04-2024,Debit Card,30485.67,13.57,44905.38,5,Returned,Delivered,South Hub,SEL242,Yes
+CUST1043,Customer_43,18,Female,Chennai,Electronics,Product_43,ORD5043,17-11-2024,17-04-2024,Credit Card,23631.29,20.79,23444.84,2,Not Returned,Out for Delivery,South Hub,SEL243,No
+CUST1044,Customer_44,18,Male,Bangalore,Home,Product_44,ORD5044,16-06-2024,24-03-2024,Cash on Delivery,11539.85,22.52,934.69,3,Not Returned,Shipped,North Hub,SEL244,Yes
+CUST1045,Customer_45,54,Male,Chennai,Sports,Product_45,ORD5045,16-01-2024,27-06-2024,Debit Card,12517.13,9.04,9988.32,3,Returned,Out for Delivery,North Hub,SEL245,Yes
+CUST1046,Customer_46,52,Female,Delhi,Clothing,Product_46,ORD5046,30-10-2024,23-07-2024,Debit Card,17664.3,5.65,42942.19,5,Returned,Delivered,West Hub,SEL246,Yes
+CUST1047,Customer_47,22,Female,Chennai,Sports,Product_47,ORD5047,15-09-2024,02-09-2024,Net Banking,49279.23,1.12,15655.46,5,Returned,Cancelled,East Hub,SEL247,No
+CUST1048,Customer_48,57,Female,Bangalore,Sports,Product_48,ORD5048,23-05-2024,12-06-2024,Net Banking,5128.75,16.29,13420.29,5,Not Returned,Cancelled,South Hub,SEL248,No
+CUST1049,Customer_49,54,Female,Delhi,Sports,Product_49,ORD5049,14-11-2024,23-04-2024,Net Banking,37758.42,10.63,2267.49,4,Returned,Shipped,East Hub,SEL249,No
+CUST1050,Customer_50,28,Male,Hyderabad,Electronics,Product_50,ORD5050,29-04-2024,06-07-2024,Credit Card,35488.49,24.94,1754.65,3,Not Returned,Cancelled,East Hub,SEL250,Yes
+CUST1051,Customer_51,29,Male,Mumbai,Electronics,Product_51,ORD5051,06-01-2024,12-11-2024,Cash on Delivery,42292.95,12.56,28124.33,4,Not Returned,Delivered,North Hub,SEL251,Yes
+CUST1052,Customer_52,59,Female,Chennai,Clothing,Product_52,ORD5052,21-03-2024,19-04-2024,Cash on Delivery,43710.92,19.78,23115,2,Not Returned,Out for Delivery,West Hub,SEL252,No
+CUST1053,Customer_53,50,Male,Delhi,Home,Product_53,ORD5053,26-11-2024,04-04-2024,Cash on Delivery,13251.56,16.96,30970.98,3,Returned,Delivered,East Hub,SEL253,Yes
+CUST1054,Customer_54,50,Male,Delhi,Clothing,Product_54,ORD5054,18-04-2024,06-05-2024,Debit Card,18028.34,27.79,43953.55,3,Returned,Delivered,West Hub,SEL254,No
+CUST1055,Customer_55,21,Female,Bangalore,Electronics,Product_55,ORD5055,01-03-2024,08-10-2024,Cash on Delivery,37370.63,10.31,41889.21,5,Returned,Shipped,East Hub,SEL255,Yes
+CUST1056,Customer_56,50,Female,Mumbai,Clothing,Product_56,ORD5056,22-04-2024,09-02-2024,Net Banking,42009.6,16.18,16062.07,1,Returned,Out for Delivery,East Hub,SEL256,No
+CUST1057,Customer_57,57,Female,Chennai,Beauty,Product_57,ORD5057,31-05-2024,28-11-2024,Net Banking,15673.61,6.16,9119.2,5,Not Returned,Delivered,West Hub,SEL257,No
+CUST1058,Customer_58,22,Male,Chennai,Electronics,Product_58,ORD5058,26-11-2024,17-09-2024,UPI,22089.14,1.67,29919.83,1,Returned,Cancelled,South Hub,SEL258,Yes
+CUST1059,Customer_59,55,Male,Hyderabad,Sports,Product_59,ORD5059,10-06-2024,06-08-2024,UPI,20834.68,19.18,39730.36,2,Returned,Out for Delivery,West Hub,SEL259,No
+CUST1060,Customer_60,27,Female,Bangalore,Beauty,Product_60,ORD5060,18-04-2024,06-05-2024,Credit Card,9430.55,1.97,25012.55,2,Returned,Out for Delivery,South Hub,SEL260,No
+CUST1061,Customer_61,33,Female,Bangalore,Beauty,Product_61,ORD5061,23-04-2024,04-03-2024,Debit Card,49430.99,29.81,38125.76,4,Not Returned,Cancelled,South Hub,SEL261,Yes
+CUST1062,Customer_62,34,Female,Bangalore,Clothing,Product_62,ORD5062,04-08-2024,01-08-2024,Debit Card,8847.99,0.38,14284.99,3,Returned,Out for Delivery,West Hub,SEL262,No
+CUST1063,Customer_63,31,Female,Delhi,Clothing,Product_63,ORD5063,02-07-2024,26-10-2024,Net Banking,41908.67,7.3,24296.95,1,Returned,Out for Delivery,North Hub,SEL263,Yes
+CUST1064,Customer_64,37,Male,Chennai,Sports,Product_64,ORD5064,17-05-2024,05-07-2024,Net Banking,40454.01,11.55,5932.5,2,Not Returned,Delivered,South Hub,SEL264,No
+CUST1065,Customer_65,35,Female,Delhi,Sports,Product_65,ORD5065,03-01-2024,04-04-2024,Cash on Delivery,13392.77,9.43,21098.78,2,Returned,Delivered,West Hub,SEL265,Yes
+CUST1066,Customer_66,44,Female,Delhi,Electronics,Product_66,ORD5066,13-09-2024,09-05-2024,Net Banking,18758.04,3.65,41733.16,2,Not Returned,Shipped,North Hub,SEL266,No
+CUST1067,Customer_67,26,Female,Mumbai,Electronics,Product_67,ORD5067,06-05-2024,18-11-2024,Credit Card,42068.92,27.09,49206.81,2,Not Returned,Shipped,North Hub,SEL267,No
+CUST1068,Customer_68,28,Female,Hyderabad,Beauty,Product_68,ORD5068,17-01-2024,31-12-2024,UPI,3203.71,3.59,46484.71,5,Not Returned,Cancelled,West Hub,SEL268,No
+CUST1069,Customer_69,47,Female,Mumbai,Beauty,Product_69,ORD5069,29-01-2024,13-04-2024,Debit Card,2777.12,2.73,27392.89,5,Not Returned,Out for Delivery,South Hub,SEL269,Yes
+CUST1070,Customer_70,26,Female,Hyderabad,Electronics,Product_70,ORD5070,13-08-2024,20-01-2024,Debit Card,8431.79,7.62,34888.89,1,Not Returned,Shipped,South Hub,SEL270,Yes
+CUST1071,Customer_71,58,Female,Chennai,Home,Product_71,ORD5071,14-11-2024,24-04-2024,Cash on Delivery,31314.02,28.81,49097.41,2,Returned,Delivered,South Hub,SEL271,No
+CUST1072,Customer_72,38,Male,Bangalore,Electronics,Product_72,ORD5072,03-10-2024,18-07-2024,Credit Card,20216.52,5.76,10004.7,3,Not Returned,Shipped,West Hub,SEL272,Yes
+CUST1073,Customer_73,20,Female,Hyderabad,Beauty,Product_73,ORD5073,01-05-2024,11-11-2024,Cash on Delivery,32198.26,16.68,4491.98,2,Not Returned,Delivered,East Hub,SEL273,No
+CUST1074,Customer_74,37,Male,Chennai,Sports,Product_74,ORD5074,24-06-2024,23-09-2024,Cash on Delivery,43260.45,9.63,18865.06,2,Returned,Shipped,West Hub,SEL274,Yes
+CUST1075,Customer_75,36,Female,Chennai,Clothing,Product_75,ORD5075,29-06-2024,03-12-2024,Net Banking,12256.77,29.25,3436.71,4,Not Returned,Out for Delivery,South Hub,SEL275,Yes
+CUST1076,Customer_76,29,Male,Mumbai,Sports,Product_76,ORD5076,15-07-2024,05-08-2024,Debit Card,9756.31,14.28,31808.83,3,Not Returned,Shipped,North Hub,SEL276,Yes
+CUST1077,Customer_77,32,Female,Chennai,Beauty,Product_77,ORD5077,31-10-2024,11-05-2024,Net Banking,33640.23,26.76,32776.42,3,Returned,Cancelled,North Hub,SEL277,No
+CUST1078,Customer_78,26,Female,Bangalore,Clothing,Product_78,ORD5078,14-08-2024,10-07-2024,UPI,2653.3,2.37,3671.63,2,Returned,Cancelled,North Hub,SEL278,No
+CUST1079,Customer_79,36,Male,Chennai,Sports,Product_79,ORD5079,03-06-2024,18-10-2024,Debit Card,16997.15,18.31,16082.58,3,Returned,Cancelled,North Hub,SEL279,No
+CUST1080,Customer_80,56,Male,Hyderabad,Home,Product_80,ORD5080,12-10-2024,02-03-2024,Cash on Delivery,44290.79,21.46,14725.92,3,Returned,Delivered,South Hub,SEL280,Yes
+CUST1081,Customer_81,55,Female,Mumbai,Electronics,Product_81,ORD5081,25-06-2024,05-06-2024,UPI,30447.18,28.99,23705.62,5,Returned,Out for Delivery,North Hub,SEL281,Yes
+CUST1082,Customer_82,34,Female,Delhi,Sports,Product_82,ORD5082,31-05-2024,12-01-2024,Net Banking,16533.24,27.39,8468.55,2,Not Returned,Shipped,East Hub,SEL282,Yes
+CUST1083,Customer_83,51,Male,Hyderabad,Beauty,Product_83,ORD5083,22-04-2024,31-05-2024,Cash on Delivery,20164.57,28.63,6707.08,3,Not Returned,Out for Delivery,North Hub,SEL283,Yes
+CUST1084,Customer_84,33,Female,Hyderabad,Home,Product_84,ORD5084,27-08-2024,11-08-2024,UPI,8177.02,20.79,47101.24,5,Returned,Out for Delivery,South Hub,SEL284,No
+CUST1085,Customer_85,28,Female,Bangalore,Beauty,Product_85,ORD5085,01-02-2024,12-02-2024,Cash on Delivery,3398.12,8.73,16528.65,3,Returned,Cancelled,North Hub,SEL285,Yes
+CUST1086,Customer_86,51,Male,Delhi,Beauty,Product_86,ORD5086,17-06-2024,11-02-2024,Debit Card,22382.48,17.9,24221.06,2,Returned,Delivered,East Hub,SEL286,Yes
+CUST1087,Customer_87,53,Male,Hyderabad,Home,Product_87,ORD5087,13-06-2024,12-11-2024,Cash on Delivery,315.66,5.84,32968.89,2,Returned,Cancelled,West Hub,SEL287,Yes
+CUST1088,Customer_88,47,Male,Bangalore,Sports,Product_88,ORD5088,28-09-2024,04-10-2024,Net Banking,2180.84,6.49,13074.46,3,Not Returned,Shipped,West Hub,SEL288,Yes
+CUST1089,Customer_89,22,Male,Hyderabad,Clothing,Product_89,ORD5089,26-03-2024,27-12-2024,UPI,26520.3,19.79,42013.02,5,Returned,Shipped,North Hub,SEL289,No
+CUST1090,Customer_90,58,Male,Delhi,Beauty,Product_90,ORD5090,30-05-2024,31-03-2024,Debit Card,47761.62,2.86,7784.44,3,Not Returned,Cancelled,West Hub,SEL290,Yes
+CUST1091,Customer_91,44,Female,Chennai,Electronics,Product_91,ORD5091,16-02-2024,02-03-2024,UPI,26601.15,26.33,7871.99,2,Returned,Shipped,West Hub,SEL291,No
+CUST1092,Customer_92,37,Female,Mumbai,Beauty,Product_92,ORD5092,17-12-2024,20-04-2024,Cash on Delivery,29653.6,14.03,35625.65,3,Returned,Shipped,West Hub,SEL292,No
+CUST1093,Customer_93,57,Female,Mumbai,Beauty,Product_93,ORD5093,27-07-2024,23-01-2024,UPI,43807.08,18.37,18358.08,5,Returned,Out for Delivery,South Hub,SEL293,Yes
+CUST1094,Customer_94,33,Male,Delhi,Home,Product_94,ORD5094,02-03-2024,16-10-2024,UPI,13318.82,0.98,29819.25,5,Returned,Cancelled,South Hub,SEL294,Yes
+CUST1095,Customer_95,48,Male,Hyderabad,Electronics,Product_95,ORD5095,08-04-2024,17-04-2024,Cash on Delivery,29937.8,13.89,33872.84,1,Not Returned,Out for Delivery,South Hub,SEL295,Yes
+CUST1096,Customer_96,26,Male,Hyderabad,Electronics,Product_96,ORD5096,03-09-2024,08-11-2024,Net Banking,10911.59,15.7,28267.5,2,Returned,Shipped,West Hub,SEL296,No
+CUST1097,Customer_97,49,Male,Delhi,Beauty,Product_97,ORD5097,12-08-2024,09-02-2024,Debit Card,31269.47,28.89,12999.22,4,Not Returned,Cancelled,North Hub,SEL297,Yes
+CUST1098,Customer_98,38,Female,Mumbai,Beauty,Product_98,ORD5098,25-02-2024,14-02-2024,Cash on Delivery,512.89,13.36,33798.61,4,Not Returned,Shipped,West Hub,SEL298,No
+CUST1099,Customer_99,55,Male,Bangalore,Clothing,Product_99,ORD5099,11-05-2024,24-06-2024,Debit Card,11779.25,11.65,26327.36,1,Returned,Cancelled,West Hub,SEL299,No
+CUST1100,Customer_100,44,Male,Hyderabad,Beauty,Product_100,ORD5100,16-04-2024,05-10-2024,Credit Card,27222.22,27.33,6104.34,1,Not Returned,Shipped,West Hub,SEL300,Yes
+CUST1101,Customer_101,27,Female,Mumbai,Electronics,Product_101,ORD5101,25-08-2024,14-11-2024,Debit Card,10855.61,3.37,26934.77,3,Returned,Out for Delivery,West Hub,SEL301,No
+CUST1102,Customer_102,41,Male,Chennai,Beauty,Product_102,ORD5102,22-12-2024,16-04-2024,Cash on Delivery,5279.8,23.59,38615.99,4,Not Returned,Cancelled,North Hub,SEL302,No
+CUST1103,Customer_103,31,Male,Bangalore,Sports,Product_103,ORD5103,21-06-2024,09-03-2024,UPI,4976.41,20.92,44975.75,3,Returned,Delivered,West Hub,SEL303,No
+CUST1104,Customer_104,40,Male,Hyderabad,Sports,Product_104,ORD5104,29-11-2024,21-07-2024,Net Banking,41070.27,28.61,39376.66,3,Returned,Delivered,East Hub,SEL304,Yes
+CUST1105,Customer_105,43,Female,Hyderabad,Electronics,Product_105,ORD5105,25-12-2024,11-10-2024,UPI,618.73,7.01,971.55,1,Not Returned,Delivered,West Hub,SEL305,No
+CUST1106,Customer_106,44,Male,Mumbai,Beauty,Product_106,ORD5106,05-11-2024,01-07-2024,UPI,11835.33,22.56,47209.3,2,Returned,Shipped,East Hub,SEL306,No
+CUST1107,Customer_107,56,Male,Hyderabad,Beauty,Product_107,ORD5107,18-10-2024,12-02-2024,Credit Card,47949.22,4.54,40840.05,3,Returned,Delivered,North Hub,SEL307,Yes
+CUST1108,Customer_108,36,Female,Hyderabad,Electronics,Product_108,ORD5108,10-07-2024,19-08-2024,Debit Card,20502.38,19.96,15071.58,2,Not Returned,Delivered,West Hub,SEL308,Yes
+CUST1109,Customer_109,28,Male,Bangalore,Sports,Product_109,ORD5109,27-08-2024,29-12-2024,Credit Card,22021.51,21.34,21145.68,2,Not Returned,Delivered,South Hub,SEL309,No
+CUST1110,Customer_110,41,Female,Mumbai,Sports,Product_110,ORD5110,13-09-2024,11-04-2024,Credit Card,21844.01,29.78,28088.54,4,Returned,Out for Delivery,South Hub,SEL310,Yes
+CUST1111,Customer_111,32,Female,Hyderabad,Home,Product_111,ORD5111,22-12-2024,12-05-2024,Debit Card,27812.32,5.05,5631.59,2,Returned,Cancelled,South Hub,SEL311,No
+CUST1112,Customer_112,53,Female,Delhi,Electronics,Product_112,ORD5112,24-05-2024,08-03-2024,UPI,28434.16,9.36,24688.3,2,Returned,Shipped,West Hub,SEL312,Yes
+CUST1113,Customer_113,55,Female,Chennai,Sports,Product_113,ORD5113,19-08-2024,15-12-2024,Cash on Delivery,34228.21,16.83,47018.28,4,Returned,Out for Delivery,East Hub,SEL313,No
+CUST1114,Customer_114,27,Female,Mumbai,Sports,Product_114,ORD5114,01-03-2024,06-05-2024,Debit Card,7293.08,4.33,46948.55,4,Returned,Cancelled,South Hub,SEL314,Yes
+CUST1115,Customer_115,36,Male,Bangalore,Home,Product_115,ORD5115,18-02-2024,03-09-2024,Credit Card,45430.84,11.99,25097.41,1,Returned,Shipped,East Hub,SEL315,No
+CUST1116,Customer_116,55,Female,Bangalore,Home,Product_116,ORD5116,18-03-2024,27-01-2024,UPI,16666.63,9.51,33292.14,2,Returned,Cancelled,East Hub,SEL316,Yes
+CUST1117,Customer_117,19,Male,Bangalore,Home,Product_117,ORD5117,11-05-2024,24-11-2024,Cash on Delivery,7852.62,16.79,36209.27,5,Not Returned,Cancelled,East Hub,SEL317,Yes
+CUST1118,Customer_118,34,Male,Chennai,Clothing,Product_118,ORD5118,08-11-2024,26-10-2024,Cash on Delivery,41776.78,13.15,48259.92,2,Returned,Shipped,East Hub,SEL318,No
+CUST1119,Customer_119,34,Male,Mumbai,Beauty,Product_119,ORD5119,14-09-2024,02-04-2024,Net Banking,15515.66,19.33,7197.36,5,Not Returned,Delivered,South Hub,SEL319,Yes
+CUST1120,Customer_120,18,Male,Delhi,Electronics,Product_120,ORD5120,17-04-2024,11-03-2024,Credit Card,15020.29,2.39,9915.65,1,Not Returned,Delivered,East Hub,SEL320,No
+CUST1121,Customer_121,53,Female,Mumbai,Sports,Product_121,ORD5121,17-04-2024,21-04-2024,Debit Card,3363.99,17.31,33788.76,5,Returned,Delivered,South Hub,SEL321,Yes
+CUST1122,Customer_122,18,Male,Delhi,Beauty,Product_122,ORD5122,12-11-2024,03-01-2025,Debit Card,47652.04,12.29,19751.57,2,Not Returned,Out for Delivery,North Hub,SEL322,Yes
+CUST1123,Customer_123,41,Female,Delhi,Electronics,Product_123,ORD5123,02-02-2024,04-02-2024,Cash on Delivery,13973.03,13.51,11367.69,1,Not Returned,Cancelled,South Hub,SEL323,Yes
+CUST1124,Customer_124,58,Male,Bangalore,Clothing,Product_124,ORD5124,26-08-2024,13-01-2024,Debit Card,33520.84,10.63,48636.88,4,Not Returned,Delivered,West Hub,SEL324,No
+CUST1125,Customer_125,18,Male,Delhi,Clothing,Product_125,ORD5125,29-10-2024,01-05-2024,Cash on Delivery,43044.68,29.31,10805.28,5,Not Returned,Out for Delivery,East Hub,SEL325,Yes
+CUST1126,Customer_126,56,Male,Delhi,Sports,Product_126,ORD5126,20-08-2024,16-12-2024,Credit Card,22710.75,18.64,519.19,2,Returned,Delivered,South Hub,SEL326,No
+CUST1127,Customer_127,59,Female,Chennai,Beauty,Product_127,ORD5127,31-10-2024,04-03-2024,Debit Card,47725.03,20.47,12515.93,1,Not Returned,Shipped,East Hub,SEL327,No
+CUST1128,Customer_128,45,Male,Bangalore,Clothing,Product_128,ORD5128,16-06-2024,22-12-2024,UPI,43745.83,3.6,4215.6,4,Returned,Cancelled,West Hub,SEL328,No
+CUST1129,Customer_129,23,Male,Bangalore,Clothing,Product_129,ORD5129,29-09-2024,25-01-2024,UPI,38656.89,15.39,21688.86,4,Returned,Delivered,South Hub,SEL329,Yes
+CUST1130,Customer_130,58,Male,Bangalore,Sports,Product_130,ORD5130,21-12-2024,04-04-2024,Debit Card,21042.04,13.65,18973.34,3,Not Returned,Shipped,West Hub,SEL330,Yes
+CUST1131,Customer_131,31,Female,Hyderabad,Sports,Product_131,ORD5131,05-06-2024,25-01-2024,Credit Card,7140.7,15.39,33983.36,2,Returned,Shipped,North Hub,SEL331,Yes
+CUST1132,Customer_132,50,Female,Chennai,Sports,Product_132,ORD5132,17-10-2024,20-07-2024,Credit Card,40928.23,5.63,34831.13,4,Returned,Cancelled,South Hub,SEL332,No
+CUST1133,Customer_133,54,Female,Delhi,Beauty,Product_133,ORD5133,17-01-2024,27-09-2024,Debit Card,27880.74,20.95,25476.87,3,Returned,Out for Delivery,East Hub,SEL333,No
+CUST1134,Customer_134,46,Female,Chennai,Electronics,Product_134,ORD5134,26-06-2024,22-08-2024,Debit Card,49810.28,20,38814.36,1,Returned,Cancelled,South Hub,SEL334,Yes
+CUST1135,Customer_135,24,Female,Mumbai,Home,Product_135,ORD5135,14-05-2024,08-07-2024,Credit Card,6419.54,18.41,19373.05,2,Returned,Cancelled,South Hub,SEL335,No
+CUST1136,Customer_136,25,Female,Delhi,Sports,Product_136,ORD5136,09-11-2024,23-05-2024,Cash on Delivery,4271.52,5.06,45948.4,5,Returned,Delivered,West Hub,SEL336,Yes
+CUST1137,Customer_137,31,Male,Chennai,Beauty,Product_137,ORD5137,02-09-2024,04-11-2024,Cash on Delivery,14173.75,21.87,2844.77,3,Not Returned,Cancelled,North Hub,SEL337,No
+CUST1138,Customer_138,49,Female,Hyderabad,Home,Product_138,ORD5138,28-07-2024,03-10-2024,Credit Card,18417.4,10.69,1863.55,4,Not Returned,Out for Delivery,West Hub,SEL338,No
+CUST1139,Customer_139,26,Male,Bangalore,Home,Product_139,ORD5139,15-01-2024,01-07-2024,Credit Card,2897.65,29.09,1136.4,1,Not Returned,Shipped,South Hub,SEL339,No
+CUST1140,Customer_140,30,Male,Bangalore,Beauty,Product_140,ORD5140,15-05-2024,28-11-2024,Debit Card,36646.01,23.44,21705.67,2,Not Returned,Out for Delivery,South Hub,SEL340,No
+CUST1141,Customer_141,56,Male,Hyderabad,Beauty,Product_141,ORD5141,10-02-2024,09-01-2024,Credit Card,37234.75,27.07,37974.52,3,Returned,Cancelled,North Hub,SEL341,No
+CUST1142,Customer_142,55,Male,Chennai,Sports,Product_142,ORD5142,26-11-2024,21-02-2024,Credit Card,46254.26,3.19,7390.32,4,Not Returned,Cancelled,South Hub,SEL342,No
+CUST1143,Customer_143,26,Male,Bangalore,Clothing,Product_143,ORD5143,20-11-2024,09-09-2024,Cash on Delivery,36924.8,26.83,38325.01,2,Not Returned,Out for Delivery,North Hub,SEL343,No
+CUST1144,Customer_144,39,Female,Chennai,Electronics,Product_144,ORD5144,21-02-2024,27-12-2024,Cash on Delivery,42302.41,2.85,43710.78,3,Returned,Delivered,West Hub,SEL344,Yes
+CUST1145,Customer_145,46,Female,Delhi,Electronics,Product_145,ORD5145,05-05-2024,29-05-2024,Cash on Delivery,11570.16,5.66,13633.23,2,Not Returned,Shipped,South Hub,SEL345,Yes
+CUST1146,Customer_146,32,Male,Chennai,Beauty,Product_146,ORD5146,03-03-2024,26-04-2024,UPI,46267.59,18.84,7248.02,1,Returned,Out for Delivery,North Hub,SEL346,Yes
+CUST1147,Customer_147,48,Female,Chennai,Sports,Product_147,ORD5147,02-06-2024,29-09-2024,Cash on Delivery,47068.24,22.87,22555.72,2,Not Returned,Delivered,West Hub,SEL347,Yes
+CUST1148,Customer_148,26,Female,Hyderabad,Clothing,Product_148,ORD5148,17-06-2024,13-09-2024,Debit Card,6636.35,12.18,25769.49,2,Not Returned,Shipped,South Hub,SEL348,Yes
+CUST1149,Customer_149,22,Female,Chennai,Beauty,Product_149,ORD5149,07-01-2024,23-06-2024,Cash on Delivery,5725.59,21.87,13191.75,3,Returned,Cancelled,West Hub,SEL349,No
+CUST1150,Customer_150,46,Female,Delhi,Sports,Product_150,ORD5150,15-02-2024,18-09-2024,Cash on Delivery,29165.54,13.72,10073.5,1,Returned,Delivered,South Hub,SEL350,Yes
+CUST1151,Customer_151,26,Male,Chennai,Sports,Product_151,ORD5151,13-07-2024,28-08-2024,UPI,22200.19,4.33,31581.81,4,Not Returned,Cancelled,North Hub,SEL351,Yes
+CUST1152,Customer_152,49,Female,Hyderabad,Clothing,Product_152,ORD5152,18-04-2024,21-11-2024,UPI,9040.2,5.06,34681.02,2,Returned,Cancelled,South Hub,SEL352,Yes
+CUST1153,Customer_153,36,Female,Hyderabad,Beauty,Product_153,ORD5153,23-12-2024,16-06-2024,Debit Card,40320.16,8.46,20501.04,2,Not Returned,Shipped,West Hub,SEL353,No
+CUST1154,Customer_154,21,Female,Chennai,Sports,Product_154,ORD5154,11-03-2024,30-09-2024,Debit Card,16673.98,3.64,16878.12,4,Not Returned,Delivered,South Hub,SEL354,No
+CUST1155,Customer_155,57,Male,Bangalore,Beauty,Product_155,ORD5155,22-03-2024,02-02-2024,UPI,1054.4,14.94,30328.21,5,Returned,Delivered,South Hub,SEL355,No
+CUST1156,Customer_156,58,Female,Chennai,Electronics,Product_156,ORD5156,15-11-2024,07-02-2024,UPI,44984.96,25.33,15235.15,3,Returned,Cancelled,North Hub,SEL356,No
+CUST1157,Customer_157,41,Female,Chennai,Electronics,Product_157,ORD5157,15-07-2024,16-11-2024,Net Banking,30351.19,7.71,6724.73,1,Returned,Out for Delivery,West Hub,SEL357,Yes
+CUST1158,Customer_158,42,Female,Mumbai,Beauty,Product_158,ORD5158,12-04-2024,11-01-2024,UPI,40631.79,2.59,19619.01,5,Not Returned,Delivered,North Hub,SEL358,Yes
+CUST1159,Customer_159,49,Male,Delhi,Sports,Product_159,ORD5159,12-02-2024,18-03-2024,UPI,47360.78,3.4,6075.56,1,Returned,Shipped,East Hub,SEL359,No
+CUST1160,Customer_160,38,Female,Mumbai,Beauty,Product_160,ORD5160,04-11-2024,29-10-2024,Debit Card,39353.94,11.75,6203.32,4,Not Returned,Cancelled,South Hub,SEL360,No
+CUST1161,Customer_161,46,Male,Hyderabad,Clothing,Product_161,ORD5161,29-02-2024,24-03-2024,Credit Card,17134.08,10.94,12837.64,1,Not Returned,Shipped,North Hub,SEL361,Yes
+CUST1162,Customer_162,24,Female,Hyderabad,Clothing,Product_162,ORD5162,09-09-2024,26-08-2024,Debit Card,17940.07,23.81,4670.72,5,Not Returned,Delivered,West Hub,SEL362,Yes
+CUST1163,Customer_163,20,Female,Chennai,Sports,Product_163,ORD5163,13-03-2024,01-05-2024,Cash on Delivery,46400.42,23.91,24930.63,5,Not Returned,Delivered,South Hub,SEL363,Yes
+CUST1164,Customer_164,34,Male,Chennai,Home,Product_164,ORD5164,14-09-2024,24-02-2024,Credit Card,9589.97,29.53,7700.62,1,Returned,Delivered,South Hub,SEL364,No
+CUST1165,Customer_165,49,Male,Bangalore,Beauty,Product_165,ORD5165,15-12-2024,22-07-2024,Debit Card,25148.92,13.47,21546.72,2,Returned,Cancelled,East Hub,SEL365,No
+CUST1166,Customer_166,53,Female,Mumbai,Clothing,Product_166,ORD5166,18-05-2024,05-09-2024,UPI,13101.57,23.39,23437.79,2,Not Returned,Out for Delivery,West Hub,SEL366,No
+CUST1167,Customer_167,58,Female,Bangalore,Beauty,Product_167,ORD5167,07-05-2024,08-06-2024,UPI,28032.42,1.58,15098.12,2,Not Returned,Delivered,North Hub,SEL367,No
+CUST1168,Customer_168,50,Male,Bangalore,Electronics,Product_168,ORD5168,30-12-2024,20-10-2024,Net Banking,30274.55,12.31,16274.56,1,Returned,Cancelled,West Hub,SEL368,Yes
+CUST1169,Customer_169,53,Female,Bangalore,Clothing,Product_169,ORD5169,20-07-2024,11-09-2024,UPI,4368.53,3.92,9332.15,2,Not Returned,Shipped,East Hub,SEL369,Yes
+CUST1170,Customer_170,59,Male,Hyderabad,Home,Product_170,ORD5170,26-10-2024,17-12-2024,UPI,12335.27,19.3,20429.17,2,Returned,Out for Delivery,East Hub,SEL370,Yes
+CUST1171,Customer_171,40,Female,Delhi,Clothing,Product_171,ORD5171,21-10-2024,01-08-2024,Debit Card,4887.88,11.42,1762.01,4,Returned,Delivered,East Hub,SEL371,No
+CUST1172,Customer_172,50,Female,Bangalore,Home,Product_172,ORD5172,23-04-2024,16-03-2024,Cash on Delivery,11704.02,15.71,3900.44,2,Not Returned,Out for Delivery,South Hub,SEL372,No
+CUST1173,Customer_173,19,Male,Chennai,Electronics,Product_173,ORD5173,23-02-2024,05-11-2024,Net Banking,24096.87,15.19,43656.7,2,Not Returned,Out for Delivery,West Hub,SEL373,Yes
+CUST1174,Customer_174,59,Male,Chennai,Sports,Product_174,ORD5174,06-07-2024,19-01-2024,Net Banking,43234.95,5.36,28753.99,5,Returned,Out for Delivery,East Hub,SEL374,Yes
+CUST1175,Customer_175,19,Female,Delhi,Electronics,Product_175,ORD5175,06-11-2024,02-06-2024,UPI,21238.84,11.18,26249.79,5,Not Returned,Delivered,North Hub,SEL375,Yes
+CUST1176,Customer_176,57,Male,Mumbai,Sports,Product_176,ORD5176,06-12-2024,28-03-2024,Net Banking,23097.5,11.71,48057.82,3,Not Returned,Out for Delivery,East Hub,SEL376,Yes
+CUST1177,Customer_177,48,Female,Mumbai,Sports,Product_177,ORD5177,04-04-2024,23-02-2024,UPI,34414.63,9.9,7537.49,2,Returned,Delivered,East Hub,SEL377,No
+CUST1178,Customer_178,39,Male,Chennai,Home,Product_178,ORD5178,14-03-2024,22-10-2024,Net Banking,10248.76,15.6,9771.19,4,Not Returned,Shipped,East Hub,SEL378,No
+CUST1179,Customer_179,36,Male,Chennai,Clothing,Product_179,ORD5179,24-01-2024,23-05-2024,Debit Card,49436.08,3.06,40753.5,1,Returned,Out for Delivery,North Hub,SEL379,No
+CUST1180,Customer_180,27,Male,Delhi,Clothing,Product_180,ORD5180,03-08-2024,07-11-2024,Cash on Delivery,46107.46,14.32,11250.73,2,Returned,Cancelled,East Hub,SEL380,Yes
+CUST1181,Customer_181,46,Female,Bangalore,Sports,Product_181,ORD5181,09-12-2024,26-08-2024,Net Banking,3350.49,24.56,49856.86,3,Returned,Cancelled,North Hub,SEL381,No
+CUST1182,Customer_182,20,Male,Bangalore,Electronics,Product_182,ORD5182,20-03-2024,01-07-2024,Net Banking,7882.76,28.63,26914.99,3,Returned,Out for Delivery,South Hub,SEL382,Yes
+CUST1183,Customer_183,33,Female,Bangalore,Sports,Product_183,ORD5183,07-12-2024,23-09-2024,Credit Card,9360.69,28.91,49136.2,5,Returned,Shipped,West Hub,SEL383,No
+CUST1184,Customer_184,39,Male,Chennai,Electronics,Product_184,ORD5184,11-08-2024,29-12-2024,Debit Card,22041.09,1.11,10427.18,5,Returned,Cancelled,South Hub,SEL384,Yes
+CUST1185,Customer_185,38,Female,Bangalore,Home,Product_185,ORD5185,13-07-2024,26-04-2024,Debit Card,24903.03,12.59,4101.74,5,Returned,Cancelled,East Hub,SEL385,No
+CUST1186,Customer_186,47,Female,Bangalore,Beauty,Product_186,ORD5186,10-06-2024,09-02-2024,Cash on Delivery,14376.03,23.16,45344.48,1,Not Returned,Out for Delivery,North Hub,SEL386,Yes
+CUST1187,Customer_187,52,Female,Hyderabad,Beauty,Product_187,ORD5187,27-03-2024,03-05-2024,Debit Card,36825.75,28.29,26277.06,1,Not Returned,Out for Delivery,North Hub,SEL387,No
+CUST1188,Customer_188,46,Female,Bangalore,Electronics,Product_188,ORD5188,03-03-2024,18-08-2024,UPI,19298.3,25.3,19402.83,1,Not Returned,Shipped,South Hub,SEL388,Yes
+CUST1189,Customer_189,21,Female,Delhi,Home,Product_189,ORD5189,29-05-2024,02-04-2024,Net Banking,49966.47,28.24,11020.94,3,Returned,Cancelled,East Hub,SEL389,No
+CUST1190,Customer_190,37,Female,Delhi,Beauty,Product_190,ORD5190,07-05-2024,26-10-2024,UPI,3722.99,20.86,27369.8,4,Returned,Cancelled,North Hub,SEL390,No
+CUST1191,Customer_191,49,Male,Hyderabad,Electronics,Product_191,ORD5191,30-04-2024,30-06-2024,Net Banking,26751.11,12.52,36561.29,4,Not Returned,Delivered,South Hub,SEL391,Yes
+CUST1192,Customer_192,30,Male,Bangalore,Clothing,Product_192,ORD5192,31-10-2024,28-03-2024,UPI,1690.15,29.05,18531.72,5,Returned,Shipped,South Hub,SEL392,No
+CUST1193,Customer_193,46,Male,Mumbai,Electronics,Product_193,ORD5193,30-12-2024,16-07-2024,Debit Card,2183.18,19.27,559.61,1,Not Returned,Delivered,South Hub,SEL393,Yes
+CUST1194,Customer_194,35,Female,Bangalore,Sports,Product_194,ORD5194,18-02-2024,07-08-2024,Credit Card,15060.81,6.37,33660.83,1,Returned,Cancelled,East Hub,SEL394,Yes
+CUST1195,Customer_195,29,Female,Delhi,Sports,Product_195,ORD5195,21-08-2024,13-02-2024,Debit Card,27486.69,15.49,20957.05,3,Returned,Out for Delivery,South Hub,SEL395,Yes
+CUST1196,Customer_196,41,Female,Chennai,Clothing,Product_196,ORD5196,22-10-2024,03-03-2024,Cash on Delivery,366.36,21.65,46591.28,3,Returned,Out for Delivery,West Hub,SEL396,Yes
+CUST1197,Customer_197,41,Female,Chennai,Clothing,Product_197,ORD5197,19-01-2024,20-02-2024,UPI,18353.82,16.68,49933.14,1,Returned,Cancelled,South Hub,SEL397,Yes
+CUST1198,Customer_198,44,Female,Mumbai,Electronics,Product_198,ORD5198,04-12-2024,15-12-2024,UPI,22857.09,2.2,38320.7,1,Returned,Out for Delivery,East Hub,SEL398,No
+CUST1199,Customer_199,52,Male,Mumbai,Home,Product_199,ORD5199,08-09-2024,13-03-2024,Net Banking,8679.77,10.7,22387.7,1,Returned,Shipped,West Hub,SEL399,No
